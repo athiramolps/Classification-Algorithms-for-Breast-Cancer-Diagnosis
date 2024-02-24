@@ -1,5 +1,6 @@
 # Classification-Algorithms-for-Breast-Cancer-Diagnosis
 
+![1*Jah6JhmaD6G7I6Z5uF3tSA](https://github.com/athiramolps/Classification-Algorithms-for-Breast-Cancer-Diagnosis/assets/105213290/e2ed6854-7550-4170-88ca-b83db5b0e4aa)
 
 Breast cancer remains one of the most prevalent and fatal diseases globally, underscoring the need for accurate diagnosis to improve patient outcomes. This repository explores the application of machine learning techniques to enhance the accuracy and efficiency of breast cancer diagnosis. By leveraging advanced computational algorithms, we aim to analyze complex patterns within medical data, facilitating more precise classification of breast cancer cases as benign or malignant.
 
@@ -15,7 +16,7 @@ In this study, we employ both supervised and unsupervised machine learning metho
 - **Support Vector Machine with Principal Component Analysis (PCA)**: Integrates PCA for dimensionality reduction, enhancing SVM's performance by reducing computational complexity.
 - **Naive Bayes**: A probabilistic classifier based on Bayes' theorem, known for its simplicity and efficiency in training and prediction.
 - **Random Forest**: An ensemble learning algorithm that builds multiple decision trees and combines their predictions, robust to overfitting and suitable for high-dimensional data.
-![6158dd5a9eb8a3708b09ee09_3H_KVVErj5hhg3x-6GhSIV7bGYANnhCRyu8LIMmc1179ccxk0B2ZTohkg5o9F8sLioBfeAdVzIJ_H-gsy9jJd5kkLecm6kR6abq5PVA363yILJaF5C7ugbxH0Qye1wYm4aYK0NOR=s0](https://github.com/athiramolps/Classification-Algorithms-for-Breast-Cancer-Diagnosis/assets/105213290/7296113d-ddaa-4ad4-a182-33ea66876f9a)
+
 ### Unsupervised Learning
 - **Principal Component Analysis (PCA)**: Aids in identifying underlying patterns and structures within the data, complementing supervised learning.
 
